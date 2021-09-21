@@ -4,7 +4,7 @@ Example usage:
 
 ```html
 // import file-tree.css
-<link rel="stylesheet" type="text/css" href="file-tree.css" />
+<link rel="stylesheet" type="text/css" href="file-tree.css"/>
 
 // create folders and files
 <ul id="file-tree" class="file-tree">
